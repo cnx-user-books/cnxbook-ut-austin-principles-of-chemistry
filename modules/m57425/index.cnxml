@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Thermodynamics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m57425</md:content-id>
+  <md:title>Thermodynamics</md:title>
+  <md:abstract>This is the landing page for the CH 301 Thermodynamics module taught at the University of Texas at Austin.</md:abstract>
+  <md:uuid>c6ef3c25-1249-41f2-ad63-a8841fe04c8b</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">Thermodynamics is the beginning of the quantitative evaluation of why things happen.
+  </para><para id="eip-126">To begin this journey, answer this question: Which of the following happens when you put an ice cube in a cup of coffee?</para><list id="eip-15"><item>The ice cube cools the coffee, or</item>
+<item>the coffee heats the ice.</item></list><para id="eip-563">Thermodynamics helps us answer this question. More importantly, we'll be able to assign numbers to the amount of heat that is transferred when ice is placed into a cup of coffee. With that knowledge, we can begin to answer much larger questions.</para><para id="eip-824">In case you're curious, the coffee transfers heat to the ice. Begin the module to find out why.</para></content>
+
+</document>

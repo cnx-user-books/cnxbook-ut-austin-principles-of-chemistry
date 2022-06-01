@@ -1,0 +1,14 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Atomic Theory</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m57089</md:content-id>
+  <md:title>Atomic Theory</md:title>
+  <md:abstract>This is the landing page for the CH 301 Atomic Theory module taught at the University of Texas at Austin.</md:abstract>
+  <md:uuid>1f9ad219-a289-437d-9f36-5fc9ec21fecb</md:uuid>
+</metadata>
+
+<content>
+  <para id="eip-240">Before one can really understand molecular interactions and behaviors, they must first understand the ultimate building block of all matter, atoms. Atomic theory allows us to calculate the most probable locations of the electrons within an atom and at the same time determine the approximate energies of those electrons.</para><para id="eip-926">When atoms interact with electromagnetic radiation we learn that energy is absorbed in discrete energy amounts (quanta). This strange behaviour could not be explained by classical physics (Isaac Newton and others). A new way of thinking about the interaction of light and matter (atoms) lead to the field of quantum mechanics. Thinking and mathematically treating electrons as waves is a strange concept for those of us viewing the world macroscopically. Energy is different in its interactions down in the quantum world (think atomic and molecular sizes).</para><para id="eip-854">We will start with the simplest of atoms, hydrogen. Quantum mechanics was built with the hydrogen atom as its primary model. Understanding the energy levels within the hydrogen atom is the first step in understanding the levels in all the other more complex atoms. This then builds to even more complex molecules which are held together via chemical bonds. Chemical bonding is really at the heart of all of chemistry. In order to get there we must first lay the foundation with atomic theory.</para></content>
+
+</document>
